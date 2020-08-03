@@ -15,6 +15,7 @@ The following **required** functionality is complete:
 The following **optional** features are implemented:
 * [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 * [x] Changed the background and font for a more aesthetic presentation.
+* [x] Created an app icon using Figma and icons8 for a more aesthetic presentation.
 
 ## Video Walkthrough 
 
