@@ -29,7 +29,7 @@ GIF created with [Recordit](https://recordit.co/).
 
 I started the project with SwiftUI as the user interface and was very confused so I took a break. In the morning I re-read the instructions and was able to change the
 user interface to Storyboard. The 'teams' warning I received was confusing, but was able to use the Walkthrough video as a guide. For a while my keyboard wasn't 
-showing up and it was distressing, but after many tries I was able to see what the problem was.
+showing up and it was distressing, but after many tries I was able to see what the problem was. Despite the difficulties I faced, creating this iOS app was really fun.
 
 ## License 
 
